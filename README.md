@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Mi nombre es **Mateo Hernandez**, soy alumno de 2º año de Ingeniería en Sistemas de Información en la **UTN FRBA** y mi legajo es **213.783-5**.
+Mi nombre es **Mateo Hernández**, soy alumno de 2º año de Ingeniería en Sistemas de Información en la **UTN FRBA** y mi legajo es **213.783-5**.
 
 Desde muy chico siempre sentí un gran interés por dos cosas: la **tecnología** y la **capacidad fantástica que tenemos de crear cosas**. Siempre fui una persona muy creativa y positiva.
 
